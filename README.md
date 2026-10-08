@@ -70,8 +70,9 @@ This project was built with extensive assistance from AI tools, following Clickr
 
 ### AI Tools Used
 
-1. **Devin (Claude-based coding agent)** - Primary AI assistant for code generation, debugging, and architecture decisions
-2. **Web Search Integration** - For API documentation and best practices lookup
+1. **ChatGPT** - For taking Overview of the app and planning for all the screens along with the execution process. 
+2. **Devin (Claude-based coding agent)** - Primary AI assistant for code generation, debugging, and architecture decisions
+3. **Web Search Integration** - For API documentation and best practices lookup
 
 ### Example Prompts Sent to AI
 
