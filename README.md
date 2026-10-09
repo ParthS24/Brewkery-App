@@ -108,3 +108,20 @@ This app was built as part of the Android Developer take-home assignment for Cli
 
 **Time Invested**: ~2 hours
 **Approach**: Focused on clean architecture, efficient implementation, and smooth user experience rather than over-engineering.
+
+📱 App Screenshots
+
+<img width="396" height="816" alt="Screenshot 2026-10-09 122549" src="https://github.com/user-attachments/assets/008ee7f6-7b99-4020-be43-9838e35d20b6" />
+<img width="398" height="825" alt="Screenshot 2026-10-09 122755" src="https://github.com/user-attachments/assets/03212c14-4c88-42cc-beb4-a7e2989a0253" />
+<img width="417" height="821" alt="Screenshot 2026-10-09 122823" src="https://github.com/user-attachments/assets/7dbba27d-b745-4bcf-8dfa-7e89362895a2" />
+<img width="417" height="818" alt="Screenshot 2026-10-09 122842" src="https://github.com/user-attachments/assets/0219faa7-69ac-4f7b-b23a-21ad4c2d9eea" />
+<img width="430" height="828" alt="Screenshot 2026-10-09 122858" src="https://github.com/user-attachments/assets/b02ad4d7-a69b-4b91-b4b1-0923b2f6b0a7" />
+<img width="436" height="826" alt="Screenshot 2026-10-09 122913" src="https://github.com/user-attachments/assets/fd9f8961-15a9-4f70-a831-3874df122c56" />
+
+
+
+
+
+
+
+
